@@ -11,7 +11,7 @@
 
 <br>
 
-- 🧑 I'm fresh graduate from <a href="https://www.asu.edu.eg/">Computer Science Ain Shams University</a>
+- 🧑 I'm fresh graduate (2016-2020) from <a href="https://www.asu.edu.eg/">Computer Science Ain Shams University</a> Class of 2020
 - 📖 Currently Reading:"<b>Cracking The Coding Interview</b>" by <a href="https://www.quora.com/profile/Gayle-Laakmann-McDowell">Gayle Laakmann McDowell</a>
 - 🔭 I’m currently focused on improving my ability to provide high quality web applications using React.js
 - 🌱 I’m currently learning React.js,Vue.js,Sass,Pug.js,JQuery
