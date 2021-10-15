@@ -1,7 +1,5 @@
 ### Hi there, I'm Ahmed Emad! 👋
 
-
-
 <a href="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical"/> 
 </a>
@@ -9,8 +7,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact"/>
 </a>
 
-<br>
-
+ <br>
+ 
 - 🧑 I'm fresh graduate (2016-2020) from <a href="https://www.asu.edu.eg/">Computer Science Ain Shams University</a> Class of 2020
 - 📖 Currently Reading:"<b>Cracking The Coding Interview</b>" by <a href="https://www.quora.com/profile/Gayle-Laakmann-McDowell">Gayle Laakmann McDowell</a>
 - 🔭 I’m currently focused on improving my ability to provide high quality web applications using React.js
@@ -23,12 +21,10 @@
  
   <blockquote>
    <ul>
-   <li> <p>"Patience is a key element of success" - <i>Bill Gates</i></p></li>
-  
+    <li> <p>"Patience is a key element of success" - <i>Bill Gates</i></p></li>
     <li><p>"To get something you never had , you have to do something you never did" - <i>Denzel Washington</i></p></li>
-  
     <li><p>"You don't have to be great to start, but you have to start to be great" - <i>Zig Zagler</i></p></li>
   
    </ul>
   </blockquote>
-  
+ 
