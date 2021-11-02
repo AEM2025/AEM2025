@@ -1,12 +1,13 @@
 ### Hi there, I'm Ahmed Emad! 👋
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact"/>
-</a>
-
 <a href="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical"/> 
 </a>
+
+<!--<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact"/>
+</a>-->
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AEM2025&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Emad" />
