@@ -4,9 +4,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical"/> 
 </a>
 
-<!--<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact"/>
-</a>-->
+</a>
 
 
 <p align="center">
