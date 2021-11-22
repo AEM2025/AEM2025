@@ -1,13 +1,12 @@
 ### Hi there, I'm Ahmed Emad! 👋
 
-<a href="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical"/> 
+<a href="https://github.com/AEM2025"  target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AEM2025&show_icons=true&theme=radical&count_private=true&line_height=33" alt="Ahmed Emad's github stats"/>
 </a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&exclude_repo=github-readme-stats,anuraghazra.github.io&layout=compact"/>
+<a href="https://github.com/AEM2025"   target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AEM2025&theme=dark&hide=TCL" />
 </a>
-
 
 <p align="center">
  
