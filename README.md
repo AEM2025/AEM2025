@@ -10,7 +10,6 @@
 
 <p align="center">
  
- <img src="https://badges.pufler.dev/repos/AEM2025" alt="Ahmed Emad"/>
  <img src="https://komarev.com/ghpvc/?username=AEM2025&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Emad" />
  
 </p>
