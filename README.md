@@ -30,9 +30,6 @@
   <a href="mailto:emada0471@gmail.com">
     <img align="left" alt="Ahmed Emad's gmail" width="40px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" draggable="false" />
   </a>
-  <a href="https://www.quora.com/profile/Ahmed-Emad-311">
-    <img align="left" alt="Ahmed Emad's Quora" width="40px" src="https://github.com/AEM2025/AEM2025/blob/main/Quora%20logo.png" draggable="false" /> 
-  </a>
 
 </div>
 
@@ -44,7 +41,7 @@
 - 🎓 Graduated from <a href="https://www.asu.edu.eg/">Faculty of Computer Science Ain Shams University</a> Class of 2020
 - 📖 Currently Reading:"<b>Cracking The Coding Interview</b>" by <a href="https://www.quora.com/profile/Gayle-Laakmann-McDowell">Gayle Laakmann McDowell</a>
 - 💻 I can speak Arabic, English and German.
-- ⭐ I have more than +19M view at   <a href="https://www.quora.com/profile/Ahmed-Emad-311">Quora </a>
+- ⭐ Certified Pega System Architect (PCSA v8.6) & Certified Microsoft Power Platform (PL-900).
 - 🍀 Ask me about anything, I will be happy to help.
 - 😄 Pronouns: He/him/his
 - 💬 My Favourite Quotes:
