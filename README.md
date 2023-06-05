@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/AEM2025/AEM2025/blob/main/DevOps.gif" alt="DevOps GIF" width="700" height="400">
+  <img src="https://github.com/AEM2025/AEM2025/blob/main/Intro.png" alt="Intro Photo">
 </p>
-
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=AEM2025&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Emad" />
