@@ -6,7 +6,7 @@
  <img src="https://komarev.com/ghpvc/?username=AEM2025&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed Emad" />
 </p>
 
- # Hey <img src="https://github.com/AEM2025/AEM2025/blob/main/wave.gif" width="40px" height="40px">, I'm [Ahmed Emad!](https://www.linkedin.com/in/eng-ahmed-emad/)
+ # Hey, I'm [Ahmed Emad!](https://www.linkedin.com/in/eng-ahmed-emad/)
 <br/>
 
 <div align="center">
